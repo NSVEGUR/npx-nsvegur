@@ -1,15 +1,12 @@
 {
-  "name": "nsvegur",
-  "version": "0.0.1",
-  "description": "Node Package Executable for NSVegur Profile",
+  "name": "@nsvegur/nsvegur",
+  "version": "0.0.11",
+  "description": "Node Package Executable for Nagasai Vegur's Profile",
   "bin": {
     "nsvegur": "nsvegur.js"
   },
   "main": "nsvegur.js",
   "type": "module",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/NSVEGUR/npx-nsvegur.git"
