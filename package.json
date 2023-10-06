@@ -1,9 +1,9 @@
 {
-  "name": "npx-nsvegur",
+  "name": "nsvegur",
   "version": "0.0.1",
   "description": "Node Package Executable for NSVegur Profile",
   "bin": {
-    "npx-nsvegur": "nsvegur.js"
+    "nsvegur": "nsvegur.js"
   },
   "main": "nsvegur.js",
   "type": "module",
