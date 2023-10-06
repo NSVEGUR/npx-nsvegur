@@ -1,0 +1,30 @@
+{
+  "name": "npx-nsvegur",
+  "version": "0.0.1",
+  "description": "Node Package Executable for NSVegur Profile",
+  "bin": {
+    "npx-nsvegur": "nsvegur.js"
+  },
+  "main": "nsvegur.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nsvegur",
+    "npx-nsvegur",
+    "nagasai",
+    "nagasai vegur"
+  ],
+  "author": "Nagasai Vegur",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "got": "^13.0.0",
+    "inquirer": "^9.2.11",
+    "open": "^9.1.0",
+    "terminal-image": "^2.0.0",
+    "terminal-link": "^3.0.0",
+    "word-wrap": "^1.2.5"
+  }
+}
