@@ -9,7 +9,7 @@
   "type": "module",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/NSVEGUR/npx-nsvegur.git"
+    "url": "git+https://github.com/NSVEGUR/npx-nsvegur-profile.git"
   },
   "keywords": [
     "nsvegur",
