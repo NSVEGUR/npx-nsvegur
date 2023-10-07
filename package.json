@@ -1,6 +1,6 @@
 {
   "name": "@nsvegur/profile",
-  "version": "0.0.13",
+  "version": "0.0.14",
   "description": "Node Package Executable for Nagasai Vegur's Profile",
   "bin": {
     "nsvegur": "nsvegur.js"
