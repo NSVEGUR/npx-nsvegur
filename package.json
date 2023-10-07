@@ -1,5 +1,5 @@
 {
-  "name": "@nsvegur/nsvegur-profile",
+  "name": "@nsvegur/profile",
   "version": "0.0.13",
   "description": "Node Package Executable for Nagasai Vegur's Profile",
   "bin": {
@@ -9,7 +9,7 @@
   "type": "module",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/NSVEGUR/npx-nsvegur-profile.git"
+    "url": "git+https://github.com/NSVEGUR/npx-profile.git"
   },
   "keywords": [
     "nsvegur",
